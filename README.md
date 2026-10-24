@@ -124,15 +124,9 @@ I'm always interested in learning, collaborating, and connecting with fellow dev
 <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:dipeshydv908@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dipesh"/>
 </a>
-
-<br/><br/>
-
-**📩 Email:** Replace `dipeshydv908@gmail.com` with your actual email address.
-
-</div>
 
 ---
 
