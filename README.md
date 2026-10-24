@@ -47,6 +47,33 @@ Hey! I'm **Dipesh**, a Computer Science Engineering student passionate about tec
 
 </div>
 
+---
+
+## 🎬 Creative Editing & Visual Design
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VIDEO_EDITING-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHOTO_EDITING-EC4899?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISUAL_STORYTELLING-06B6D4?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+### ✦ Creativity Meets Technology ✦
+
+*Turning ideas into engaging visual experiences.*
+
+</div>
+
+### ✨ Creative Skills
+
+- 🎞️ Video editing and smooth transitions
+- 🎨 Visual composition and aesthetic design
+- 🎵 Music synchronization and timing
+- 🌈 Color enhancement and visual effects
+- 📱 Short-form content creation
+
+
 ## ✧ Featured Project
 
 <div align="center">
