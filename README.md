@@ -1,60 +1,9 @@
 
 <div align="center">
 
-# Hey, I'm Dipesh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,40:312E81,100:06B6D4&height=230&section=header&text=DIPESH&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20GROW&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Computer Science Engineering Student
-
-*Learning, building, and growing as a developer.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel)](https://dipesh-portfolio-rose.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/dipeshydv908)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:6366F1&height=3" width="100%"/>
-
-</div>
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE student at Global Institute of Technology, Jaipur
-- 💻 Interested in programming and web development
-- 🌱 Focused on learning and building practical projects
-- 🌐 Check out my [personal portfolio](https://dipesh-portfolio-rose.vercel.app/)
-
-## 🛠️ Skills
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-## 🚀 Featured Project
-
-### Personal Portfolio
-
-My personal website showcasing my profile and work.
-
-**[Visit Live Website →](https://dipesh-portfolio-rose.vercel.app/)**
-
-## 📫 Connect
-
-- GitHub: [@dipeshydv908](https://github.com/dipeshydv908)
-- Portfolio: [dipesh-portfolio-rose.vercel.app](https://dipesh-portfolio-rose.vercel.app/)
-
----
-
-<div align="center">
-
-*Always learning. Always building.*
-
-</div>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:06B6D4&height=200&section=header&text=DIPESH&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20MY%20DIGITAL%20WORLD&descSize=14&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Learning+%7C+Building+%7C+Improving;Exploring+Web+Development" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Aspiring+Software+Developer;Learning+Today.+Building+Tomorrow." alt="Typing animation"/>
 
 <br/>
 
@@ -69,19 +18,21 @@ My personal website showcasing my profile and work.
 
 ---
 
-## 👨‍💻 About Me
+## ✦ About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+<img align="right" width="135" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-- 🎓 B.Tech Computer Science Engineering student
-- 🏫 Global Institute of Technology, Jaipur
-- 💻 Interested in programming and web development
-- 🌱 Always learning and building practical projects
-- 🌐 [Visit my portfolio](https://dipesh-portfolio-rose.vercel.app/)
+Hey! I'm **Dipesh**, a Computer Science Engineering student passionate about technology, programming, and creating useful digital experiences.
+
+- 🎓 **Education:** B.Tech in Computer Science Engineering
+- 🏫 **Institute:** Global Institute of Technology, Jaipur
+- 💻 **Interests:** Programming & Web Development
+- 🌱 **Currently:** Strengthening fundamentals and building projects
+- 🎯 **Goal:** Grow into a skilled software developer
 
 <br clear="right"/>
 
-## ⚡ Tech Stack
+## ✧ Tech Stack
 
 <div align="center">
 
@@ -89,64 +40,108 @@ My personal website showcasing my profile and work.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
 
-## 🚀 Featured Project
+## ✧ Featured Project
 
 <div align="center">
 
 <a href="https://dipesh-portfolio-rose.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PERSONAL_PORTFOLIO-Visit_Live_Website-6D5DFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_PERSONAL_PORTFOLIO-Explore_Live_Website-6D5DFB?style=for-the-badge"/>
 </a>
 
-**My personal portfolio website**
+### Personal Portfolio Website
 
-A place to explore my profile, skills, and work.
+A personal space to showcase my profile, technical skills, and development journey.
 
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipeshydv908&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshydv908&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=dipeshydv908&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<a href="https://dipesh-portfolio-rose.vercel.app/">
+**View Live Project →**
+</a>
 
 </div>
 
-## 🐍 Contribution Activity
+## ✧ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Programming
+Improving C and C++ fundamentals and problem-solving skills.
+
+</td>
+<td width="50%">
+
+### 🌐 Web Development
+Learning to create responsive and engaging web experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Building
+Turning what I learn into practical projects.
+
+</td>
+<td width="50%">
+
+### 📚 Growing
+Exploring new tools, technologies, and development workflows.
+
+</td>
+</tr>
+</table>
+
+## ✧ Beyond the Code
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dipeshydv908/dipeshydv908/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
+| 🔍 Explore | 🛠️ Create | 📈 Improve |
+|:---:|:---:|:---:|
+| Learn new concepts | Build practical projects | Keep learning every day |
 
 </div>
 
-## 🌐 Connect With Me
+## ✧ Let's Connect
 
 <div align="center">
+
+I'm always interested in learning, collaborating, and connecting with fellow developers.
+
+<br/>
 
 <a href="https://github.com/dipeshydv908">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://dipesh-portfolio-rose.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:312E81&height=100&section=footer" width="100%"/>
-
-**Thanks for visiting my profile! ⭐**
+**📩 Email:** Replace `dipeshydv908@gmail.com` with your actual email address.
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:080B16&height=120&section=footer" width="100%"/>
+
+### *“Consistency turns learning into progress.”*
+
+<sub>Thanks for stopping by. Have a great day! ✨</sub>
+
+</div>
